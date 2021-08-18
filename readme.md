@@ -3,3 +3,5 @@
 [Resume repo](https://github.com/clefayomide/hngStage2TaskResume)
 
 [Resume live link](https://clefayomide.github.io/hngStage2TaskResume/)
+
+[Name live link](https://clefayomide.github.io/hngStage2TaskMyName/)
