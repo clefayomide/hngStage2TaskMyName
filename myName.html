@@ -38,6 +38,18 @@
   </head>
 
   <body>
-    <div class="name">Olorunfemi Victor.</div>
+    <!-- <div></div> -->
   </body>
+  <script>
+    let link = document.createElement("a")
+    let div = document.createElement("div");
+    setTimeout(() => {
+      document.body.appendChild(link)
+      link.href = "https://clefayomide.github.io/resume/"
+      link.style.textDecoration = "none"
+      link.appendChild(div)
+      div.className = "name"
+      div.innerHTML = "Olorunfemi Victor."
+    }, 1000);
+  </script>
 </html>
